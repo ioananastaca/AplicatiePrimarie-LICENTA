@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DbLicentaModelStoreContainer" CdmEntityContainer="DbLicentaEntities">
+    <EntitySetMapping Name="User">
+      <EntityTypeMapping TypeName="DbLicentaModel.User">
+        <MappingFragment StoreEntitySet="User">
+          <ScalarProperty Name="IsAdmin" ColumnName="IsAdmin" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="EmailAddress" ColumnName="EmailAddress" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Report">
+      <EntityTypeMapping TypeName="DbLicentaModel.Report">
+        <MappingFragment StoreEntitySet="Report">
+          <ScalarProperty Name="IsResolved" ColumnName="IsResolved" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="EsteUrgenta" ColumnName="EsteUrgenta" />
+          <ScalarProperty Name="Descriere" ColumnName="Descriere" />
+          <ScalarProperty Name="Adresa" ColumnName="Adresa" />
+          <ScalarProperty Name="TitlulSesizarii" ColumnName="TitlulSesizarii" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Marriage">
+      <EntityTypeMapping TypeName="DbLicentaModel.Marriage">
+        <MappingFragment StoreEntitySet="Marriage">
+          <ScalarProperty Name="IsCanceled" ColumnName="IsCanceled" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="PhoneNumber" ColumnName="PhoneNumber" />
+          <ScalarProperty Name="EmailAdress" ColumnName="EmailAdress" />
+          <ScalarProperty Name="WifeCNP" ColumnName="WifeCNP" />
+          <ScalarProperty Name="WifeName" ColumnName="WifeName" />
+          <ScalarProperty Name="HusbandCNP" ColumnName="HusbandCNP" />
+          <ScalarProperty Name="HusbandName" ColumnName="HusbandName" />
+          <ScalarProperty Name="Hour" ColumnName="Hour" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Audience">
+      <EntityTypeMapping TypeName="DbLicentaModel.Audience">
+        <MappingFragment StoreEntitySet="Audience">
+          <ScalarProperty Name="Mentiuni" ColumnName="Mentiuni" />
+          <ScalarProperty Name="isCanceled" ColumnName="isCanceled" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="Motiv" ColumnName="Motiv" />
+          <ScalarProperty Name="Telefon" ColumnName="Telefon" />
+          <ScalarProperty Name="SolicitareLa" ColumnName="SolicitareLa" />
+          <ScalarProperty Name="Nume" ColumnName="Nume" />
+          <ScalarProperty Name="IdAudienta" ColumnName="IdAudienta" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

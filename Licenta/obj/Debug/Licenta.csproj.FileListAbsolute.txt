@@ -1,0 +1,1674 @@
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\Licenta.dll.config
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\Licenta.dll
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\Licenta.pdb
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\roslyn\csc.exe
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\roslyn\csc.exe.config
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\roslyn\csc.rsp
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\roslyn\csi.exe
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\roslyn\csi.exe.config
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\roslyn\csi.rsp
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\roslyn\System.AppContext.dll
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\roslyn\System.Console.dll
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\roslyn\System.IO.Compression.dll
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\roslyn\System.Net.Http.dll
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\roslyn\System.Net.Sockets.dll
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\roslyn\System.ValueTuple.dll
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\roslyn\System.Xml.XPath.dll
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\roslyn\vbc.exe
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\roslyn\vbc.exe.config
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\roslyn\vbc.rsp
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\roslyn\VBCSCompiler.exe
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\Antlr3.Runtime.dll
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\Newtonsoft.Json.dll
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\System.Web.Helpers.dll
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\System.Web.Mvc.dll
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\System.Web.Optimization.dll
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\System.Web.Razor.dll
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\System.Web.WebPages.dll
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\System.Web.WebPages.Razor.dll
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\WebGrease.dll
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\System.Web.Helpers.xml
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\System.Web.Mvc.xml
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\System.Web.Optimization.xml
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\System.Web.Razor.xml
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\System.Web.WebPages.xml
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\System.Web.WebPages.Razor.xml
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\Newtonsoft.Json.xml
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\Antlr3.Runtime.pdb
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\obj\Debug\Licenta.csproj.CoreCompileInputs.cache
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\obj\Debug\Licenta.csproj.CopyComplete
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\obj\Debug\Licenta.dll
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\obj\Debug\Licenta.pdb
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\EntityFramework.dll
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\EntityFramework.SqlServer.dll
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\EntityFramework.xml
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\bin\EntityFramework.SqlServer.xml
+C:\Users\vginga\Desktop\lic\Licenta\Licenta\obj\Debug\Licenta.csprojAssemblyReference.cache
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\Licenta.dll.config
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\Licenta.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\Licenta.pdb
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\roslyn\csc.exe
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\roslyn\csc.exe.config
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\roslyn\csc.rsp
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\roslyn\csi.exe
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\roslyn\csi.exe.config
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\roslyn\csi.rsp
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\roslyn\System.AppContext.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\roslyn\System.Console.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\roslyn\System.Net.Http.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\roslyn\vbc.exe
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\roslyn\vbc.exe.config
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\roslyn\vbc.rsp
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\Antlr3.Runtime.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\EntityFramework.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\EntityFramework.SqlServer.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\Newtonsoft.Json.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\System.Web.Helpers.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\System.Web.Mvc.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\System.Web.Optimization.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\System.Web.Razor.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\System.Web.WebPages.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\WebGrease.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\EntityFramework.xml
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\EntityFramework.SqlServer.xml
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\System.Web.Helpers.xml
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\System.Web.Mvc.xml
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\System.Web.Optimization.xml
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\System.Web.Razor.xml
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\System.Web.WebPages.xml
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\Newtonsoft.Json.xml
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\Antlr3.Runtime.pdb
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ioana\Downloads\Licenta\Licenta\obj\Debug\Licenta.csprojAssemblyReference.cache
+C:\Users\Ioana\Downloads\Licenta\Licenta\obj\Debug\Licenta.csproj.CoreCompileInputs.cache
+C:\Users\Ioana\Downloads\Licenta\Licenta\obj\Debug\Licenta.csproj.CopyComplete
+C:\Users\Ioana\Downloads\Licenta\Licenta\obj\Debug\Licenta.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\obj\Debug\Licenta.pdb
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.Azure.Authentication.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\Ioana\Downloads\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.Azure.Authentication.xml
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\Licenta.dll.config
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\Licenta.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\Licenta.pdb
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\roslyn\csc.exe
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\roslyn\csc.exe.config
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\roslyn\csc.rsp
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\roslyn\csi.exe
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\roslyn\csi.exe.config
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\roslyn\csi.rsp
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\roslyn\Microsoft.Managed.Core.targets
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\roslyn\System.AppContext.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\roslyn\System.Collections.Immutable.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\roslyn\System.Console.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\roslyn\System.Globalization.Calendars.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\roslyn\System.IO.Compression.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\roslyn\System.IO.FileSystem.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\roslyn\System.Net.Http.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\roslyn\System.Net.Sockets.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\roslyn\System.Reflection.Metadata.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\roslyn\System.ValueTuple.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\roslyn\System.Xml.XmlDocument.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\roslyn\System.Xml.XPath.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\roslyn\vbc.exe
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\roslyn\vbc.exe.config
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\roslyn\vbc.rsp
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\roslyn\VBCSCompiler.exe
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\roslyn\VBCSCompiler.exe.config
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\Antlr3.Runtime.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\EntityFramework.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\EntityFramework.SqlServer.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\Microsoft.IdentityModel.Logging.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\Microsoft.IdentityModel.Tokens.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.Azure.Authentication.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\Microsoft.Web.Infrastructure.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\Newtonsoft.Json.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\System.Web.Helpers.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\System.Web.Mvc.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\System.Web.Optimization.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\System.Web.Razor.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\System.Web.WebPages.Deployment.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\System.Web.WebPages.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\System.Web.WebPages.Razor.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\WebGrease.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\EntityFramework.xml
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\EntityFramework.SqlServer.xml
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\Microsoft.IdentityModel.Tokens.xml
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.xml
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.Azure.Authentication.xml
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\System.Web.Helpers.xml
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\System.Web.Mvc.xml
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\System.Web.Optimization.xml
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\System.Web.Razor.xml
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\System.Web.WebPages.xml
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\System.Web.WebPages.Deployment.xml
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\System.Web.WebPages.Razor.xml
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\Newtonsoft.Json.xml
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\Antlr3.Runtime.pdb
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\obj\Debug\Licenta.csproj.CoreCompileInputs.cache
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\obj\Debug\Licenta.csproj.CopyComplete
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\obj\Debug\Licenta.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\obj\Debug\Licenta.pdb
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\Licenta.dll.config
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\Licenta.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\Licenta.pdb
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\roslyn\csc.exe
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\roslyn\csc.exe.config
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\roslyn\csc.rsp
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\roslyn\csi.exe
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\roslyn\csi.exe.config
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\roslyn\csi.rsp
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\roslyn\System.AppContext.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\roslyn\System.Console.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\roslyn\System.IO.Compression.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\roslyn\System.Net.Http.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\roslyn\System.Net.Sockets.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\roslyn\System.ValueTuple.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\roslyn\System.Xml.XPath.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\roslyn\vbc.exe
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\roslyn\vbc.exe.config
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\roslyn\vbc.rsp
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\roslyn\VBCSCompiler.exe
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\Antlr3.Runtime.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\EntityFramework.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\EntityFramework.SqlServer.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.Azure.Authentication.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\Newtonsoft.Json.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\System.Web.Helpers.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\System.Web.Mvc.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\System.Web.Optimization.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\System.Web.Razor.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\System.Web.WebPages.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\System.Web.WebPages.Razor.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\WebGrease.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\EntityFramework.xml
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\EntityFramework.SqlServer.xml
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.Azure.Authentication.xml
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\System.Web.Helpers.xml
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\System.Web.Mvc.xml
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\System.Web.Optimization.xml
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\System.Web.Razor.xml
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\System.Web.WebPages.xml
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\System.Web.WebPages.Razor.xml
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\Newtonsoft.Json.xml
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\Antlr3.Runtime.pdb
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\obj\Debug\Licenta.csproj.CoreCompileInputs.cache
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\obj\Debug\Licenta.csproj.CopyComplete
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\obj\Debug\Licenta.dll
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\obj\Debug\Licenta.pdb
+C:\Users\vginga\Desktop\lic\LicentaV2\Licenta\Licenta\obj\Debug\Licenta.csprojAssemblyReference.cache
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\Licenta.dll.config
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\Licenta.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\Licenta.pdb
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\roslyn\csc.exe
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\roslyn\csc.exe.config
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\roslyn\csc.rsp
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\roslyn\csi.exe
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\roslyn\csi.exe.config
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\roslyn\csi.rsp
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\roslyn\System.AppContext.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\roslyn\System.Console.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\roslyn\System.Net.Http.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\roslyn\vbc.exe
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\roslyn\vbc.exe.config
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\roslyn\vbc.rsp
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\Antlr3.Runtime.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\EntityFramework.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\EntityFramework.SqlServer.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.Azure.Authentication.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\Newtonsoft.Json.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\System.Web.Helpers.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\System.Web.Mvc.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\System.Web.Optimization.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\System.Web.Razor.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\System.Web.WebPages.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\WebGrease.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\EntityFramework.xml
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\EntityFramework.SqlServer.xml
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.Azure.Authentication.xml
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\System.Web.Helpers.xml
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\System.Web.Mvc.xml
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\System.Web.Optimization.xml
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\System.Web.Razor.xml
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\System.Web.WebPages.xml
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\Newtonsoft.Json.xml
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\Antlr3.Runtime.pdb
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\obj\Debug\Licenta.csproj.CoreCompileInputs.cache
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\obj\Debug\Licenta.csproj.CopyComplete
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\obj\Debug\Licenta.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\Licenta\obj\Debug\Licenta.pdb
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\Licenta.dll.config
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\Licenta.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\Licenta.pdb
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\roslyn\csc.exe
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\roslyn\csc.exe.config
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\roslyn\csc.rsp
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\roslyn\csi.exe
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\roslyn\csi.exe.config
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\roslyn\csi.rsp
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\roslyn\System.AppContext.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\roslyn\System.Console.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\roslyn\System.Net.Http.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\roslyn\vbc.exe
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\roslyn\vbc.exe.config
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\roslyn\vbc.rsp
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\Antlr3.Runtime.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\EntityFramework.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\EntityFramework.SqlServer.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.Azure.Authentication.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\Newtonsoft.Json.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\System.Web.Helpers.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\System.Web.Mvc.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\System.Web.Optimization.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\System.Web.Razor.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\System.Web.WebPages.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\WebGrease.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\EntityFramework.xml
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\EntityFramework.SqlServer.xml
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.Azure.Authentication.xml
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\System.Web.Helpers.xml
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\System.Web.Mvc.xml
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\System.Web.Optimization.xml
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\System.Web.Razor.xml
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\System.Web.WebPages.xml
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\Newtonsoft.Json.xml
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\Antlr3.Runtime.pdb
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\obj\Debug\Licenta.csproj.CoreCompileInputs.cache
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\obj\Debug\Licenta.csproj.CopyComplete
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\obj\Debug\Licenta.dll
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\obj\Debug\Licenta.pdb
+C:\Users\Ioana\Desktop\New folder\Licenta\Licenta\Licenta\obj\Debug\Licenta.csprojAssemblyReference.cache
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\Licenta.dll.config
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\Licenta.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\Licenta.pdb
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\roslyn\csc.exe
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\roslyn\csc.exe.config
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\roslyn\csc.rsp
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\roslyn\csi.exe
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\roslyn\csi.exe.config
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\roslyn\csi.rsp
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\roslyn\System.AppContext.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\roslyn\System.Console.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\roslyn\System.IO.Compression.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\roslyn\System.Net.Http.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\roslyn\System.Net.Sockets.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\roslyn\System.ValueTuple.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\roslyn\System.Xml.XPath.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\roslyn\vbc.exe
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\roslyn\vbc.exe.config
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\roslyn\vbc.rsp
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\roslyn\VBCSCompiler.exe
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\Antlr3.Runtime.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\BeginCollectionItem.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\EntityFramework.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\EntityFramework.SqlServer.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.Azure.Authentication.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\Newtonsoft.Json.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\PagedList.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\System.Web.Helpers.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\System.Web.Mvc.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\System.Web.Optimization.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\System.Web.Razor.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\System.Web.WebPages.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\System.Web.WebPages.Razor.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\WebGrease.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\EntityFramework.xml
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\EntityFramework.SqlServer.xml
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.Azure.Authentication.xml
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\PagedList.xml
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\System.Web.Helpers.xml
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\System.Web.Mvc.xml
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\System.Web.Optimization.xml
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\System.Web.Razor.xml
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\System.Web.WebPages.xml
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\System.Web.WebPages.Razor.xml
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\Newtonsoft.Json.xml
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\Antlr3.Runtime.pdb
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\obj\Debug\Licenta.csproj.CoreCompileInputs.cache
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\obj\Debug\Licenta.csproj.CopyComplete
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\obj\Debug\Licenta.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\obj\Debug\Licenta.pdb
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\obj\Debug\Licenta.csprojAssemblyReference.cache
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vginga\Desktop\lic\LicentaV3\Licenta\Licenta\bin\System.Threading.Tasks.Extensions.xml
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\Licenta.dll.config
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\Licenta.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\Licenta.pdb
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\roslyn\csc.exe
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\roslyn\csc.exe.config
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\roslyn\csc.rsp
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\roslyn\csi.exe
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\roslyn\csi.exe.config
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\roslyn\csi.rsp
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\roslyn\Microsoft.Managed.Core.targets
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\roslyn\System.AppContext.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\roslyn\System.Collections.Immutable.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\roslyn\System.Console.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\roslyn\System.Globalization.Calendars.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\roslyn\System.IO.Compression.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\roslyn\System.IO.FileSystem.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\roslyn\System.Net.Http.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\roslyn\System.Net.Sockets.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\roslyn\System.Reflection.Metadata.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\roslyn\System.ValueTuple.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\roslyn\System.Xml.XmlDocument.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\roslyn\System.Xml.XPath.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\roslyn\vbc.exe
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\roslyn\vbc.exe.config
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\roslyn\vbc.rsp
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\roslyn\VBCSCompiler.exe
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\roslyn\VBCSCompiler.exe.config
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\Antlr3.Runtime.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\BeginCollectionItem.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\EntityFramework.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\EntityFramework.SqlServer.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\Microsoft.IdentityModel.Logging.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\Microsoft.IdentityModel.Tokens.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.Azure.Authentication.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\Microsoft.Web.Infrastructure.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\Newtonsoft.Json.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\PagedList.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\System.Threading.Tasks.Extensions.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\System.Web.Helpers.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\System.Web.Mvc.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\System.Web.Optimization.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\System.Web.Razor.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\System.Web.WebPages.Deployment.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\System.Web.WebPages.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\System.Web.WebPages.Razor.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\WebGrease.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\EntityFramework.xml
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\EntityFramework.SqlServer.xml
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\Microsoft.IdentityModel.Tokens.xml
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.xml
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.Azure.Authentication.xml
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\PagedList.xml
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\System.Threading.Tasks.Extensions.xml
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\System.Web.Helpers.xml
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\System.Web.Mvc.xml
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\System.Web.Optimization.xml
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\System.Web.Razor.xml
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\System.Web.WebPages.xml
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\System.Web.WebPages.Deployment.xml
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\System.Web.WebPages.Razor.xml
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\Newtonsoft.Json.xml
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\Antlr3.Runtime.pdb
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\obj\Debug\Licenta.csprojAssemblyReference.cache
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\obj\Debug\Licenta.csproj.CoreCompileInputs.cache
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\obj\Debug\Licenta.csproj.CopyComplete
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\obj\Debug\Licenta.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\LicentaV5\Licenta\Licenta\obj\Debug\Licenta.pdb
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\Licenta.dll.config
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\Licenta.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\Licenta.pdb
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\roslyn\csc.exe
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\roslyn\csc.exe.config
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\roslyn\csc.rsp
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\roslyn\csi.exe
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\roslyn\csi.exe.config
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\roslyn\csi.rsp
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\roslyn\Microsoft.Managed.Core.targets
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\roslyn\System.AppContext.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\roslyn\System.Collections.Immutable.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\roslyn\System.Console.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\roslyn\System.Globalization.Calendars.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\roslyn\System.IO.Compression.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\roslyn\System.IO.FileSystem.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\roslyn\System.Net.Http.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\roslyn\System.Net.Sockets.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\roslyn\System.Reflection.Metadata.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\roslyn\System.ValueTuple.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\roslyn\System.Xml.XmlDocument.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\roslyn\System.Xml.XPath.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\roslyn\vbc.exe
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\roslyn\vbc.exe.config
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\roslyn\vbc.rsp
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\roslyn\VBCSCompiler.exe
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\roslyn\VBCSCompiler.exe.config
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\Antlr3.Runtime.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\BeginCollectionItem.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\EntityFramework.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\EntityFramework.SqlServer.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\Microsoft.IdentityModel.Logging.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\Microsoft.IdentityModel.Tokens.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.Azure.Authentication.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\Microsoft.Web.Infrastructure.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\Newtonsoft.Json.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\PagedList.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\System.Threading.Tasks.Extensions.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\System.Web.Helpers.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\System.Web.Mvc.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\System.Web.Optimization.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\System.Web.Razor.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\System.Web.WebPages.Deployment.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\System.Web.WebPages.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\System.Web.WebPages.Razor.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\WebGrease.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\EntityFramework.xml
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\EntityFramework.SqlServer.xml
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\Microsoft.IdentityModel.Tokens.xml
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.xml
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.Azure.Authentication.xml
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\PagedList.xml
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\System.Threading.Tasks.Extensions.xml
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\System.Web.Helpers.xml
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\System.Web.Mvc.xml
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\System.Web.Optimization.xml
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\System.Web.Razor.xml
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\System.Web.WebPages.xml
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\System.Web.WebPages.Deployment.xml
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\System.Web.WebPages.Razor.xml
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\Newtonsoft.Json.xml
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\Antlr3.Runtime.pdb
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\obj\Debug\Licenta.csprojAssemblyReference.cache
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\obj\Debug\Licenta.csproj.CoreCompileInputs.cache
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\obj\Debug\Licenta.csproj.CopyComplete
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\obj\Debug\Licenta.dll
+D:\facultate\LICENTA\LICENTA APP\New folder\New folder\LicentaV5\LicentaV5\Licenta\Licenta\obj\Debug\Licenta.pdb
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\Licenta.dll.config
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\Licenta.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\Licenta.pdb
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\roslyn\csc.exe
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\roslyn\csc.exe.config
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\roslyn\csc.rsp
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\roslyn\csi.exe
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\roslyn\csi.exe.config
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\roslyn\csi.rsp
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\roslyn\System.AppContext.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\roslyn\System.Console.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\roslyn\System.IO.Compression.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\roslyn\System.Net.Http.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\roslyn\System.Net.Sockets.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\roslyn\System.ValueTuple.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\roslyn\System.Xml.XPath.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\roslyn\vbc.exe
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\roslyn\vbc.exe.config
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\roslyn\vbc.rsp
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\roslyn\VBCSCompiler.exe
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\Antlr3.Runtime.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\BeginCollectionItem.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\EntityFramework.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\EntityFramework.SqlServer.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.Azure.Authentication.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\Newtonsoft.Json.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\PagedList.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\System.Web.Helpers.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\System.Web.Mvc.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\System.Web.Optimization.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\System.Web.Razor.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\System.Web.WebPages.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\System.Web.WebPages.Razor.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\WebGrease.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\EntityFramework.xml
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\EntityFramework.SqlServer.xml
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.Azure.Authentication.xml
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\PagedList.xml
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\System.Web.Helpers.xml
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\System.Web.Mvc.xml
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\System.Web.Optimization.xml
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\System.Web.Razor.xml
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\System.Web.WebPages.xml
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\System.Web.WebPages.Razor.xml
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\Newtonsoft.Json.xml
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\Antlr3.Runtime.pdb
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\obj\Debug\Licenta.csproj.CoreCompileInputs.cache
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\obj\Debug\Licenta.csproj.CopyComplete
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\obj\Debug\Licenta.dll
+C:\Users\vginga\Desktop\lic\LicentaV6\Licenta\Licenta\obj\Debug\Licenta.pdb
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\Licenta.dll.config
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\Licenta.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\Licenta.pdb
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\roslyn\csc.exe
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\roslyn\csc.exe.config
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\roslyn\csc.rsp
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\roslyn\csi.exe
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\roslyn\csi.exe.config
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\roslyn\csi.rsp
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\roslyn\Microsoft.Managed.Core.targets
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\roslyn\System.AppContext.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\roslyn\System.Collections.Immutable.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\roslyn\System.Console.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\roslyn\System.Globalization.Calendars.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\roslyn\System.IO.Compression.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\roslyn\System.IO.FileSystem.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\roslyn\System.Net.Http.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\roslyn\System.Net.Sockets.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\roslyn\System.Reflection.Metadata.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\roslyn\System.ValueTuple.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\roslyn\System.Xml.XmlDocument.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\roslyn\System.Xml.XPath.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\roslyn\vbc.exe
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\roslyn\vbc.exe.config
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\roslyn\vbc.rsp
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\roslyn\VBCSCompiler.exe
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\roslyn\VBCSCompiler.exe.config
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\Antlr3.Runtime.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\BeginCollectionItem.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\EntityFramework.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\EntityFramework.SqlServer.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\Microsoft.IdentityModel.Logging.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\Microsoft.IdentityModel.Tokens.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.Azure.Authentication.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\Microsoft.Web.Infrastructure.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\Newtonsoft.Json.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\PagedList.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\System.Threading.Tasks.Extensions.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\System.Web.Helpers.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\System.Web.Mvc.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\System.Web.Optimization.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\System.Web.Razor.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\System.Web.WebPages.Deployment.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\System.Web.WebPages.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\System.Web.WebPages.Razor.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\WebGrease.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\EntityFramework.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\EntityFramework.SqlServer.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\Microsoft.IdentityModel.Tokens.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.Azure.Authentication.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\PagedList.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\System.Threading.Tasks.Extensions.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\System.Web.Helpers.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\System.Web.Mvc.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\System.Web.Optimization.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\System.Web.Razor.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\System.Web.WebPages.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\System.Web.WebPages.Deployment.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\System.Web.WebPages.Razor.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\Newtonsoft.Json.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\Antlr3.Runtime.pdb
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\obj\Debug\Licenta.csproj.CoreCompileInputs.cache
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\obj\Debug\Licenta.csproj.CopyComplete
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\obj\Debug\Licenta.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\obj\Debug\Licenta.pdb
+D:\facultate\LICENTA\LICENTA APP\LicentaV8cuSingletonAppSession\Licenta\Licenta\obj\Debug\Licenta.csprojAssemblyReference.cache
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\Licenta.dll.config
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\Licenta.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\Licenta.pdb
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\roslyn\csc.exe
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\roslyn\csc.exe.config
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\roslyn\csc.rsp
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\roslyn\csi.exe
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\roslyn\csi.exe.config
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\roslyn\csi.rsp
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\roslyn\System.AppContext.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\roslyn\System.Console.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\roslyn\System.IO.Compression.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\roslyn\System.Net.Http.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\roslyn\System.Net.Sockets.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\roslyn\System.ValueTuple.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\roslyn\System.Xml.XPath.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\roslyn\vbc.exe
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\roslyn\vbc.exe.config
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\roslyn\vbc.rsp
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\roslyn\VBCSCompiler.exe
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\Antlr3.Runtime.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\BeginCollectionItem.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\EntityFramework.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\EntityFramework.SqlServer.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.Azure.Authentication.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\Newtonsoft.Json.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\PagedList.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\System.Web.Helpers.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\System.Web.Mvc.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\System.Web.Optimization.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\System.Web.Razor.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\System.Web.WebPages.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\System.Web.WebPages.Razor.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\WebGrease.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\EntityFramework.xml
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\EntityFramework.SqlServer.xml
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.Azure.Authentication.xml
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\PagedList.xml
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\System.Web.Helpers.xml
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\System.Web.Mvc.xml
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\System.Web.Optimization.xml
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\System.Web.Razor.xml
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\System.Web.WebPages.xml
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\System.Web.WebPages.Razor.xml
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\Newtonsoft.Json.xml
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\Antlr3.Runtime.pdb
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\obj\Debug\Licenta.csproj.CoreCompileInputs.cache
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\obj\Debug\Licenta.csproj.CopyComplete
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\obj\Debug\Licenta.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\obj\Debug\Licenta.pdb
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\System.Buffers.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\System.Memory.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\System.Numerics.Vectors.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\System.Text.Encodings.Web.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\System.Text.Json.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\System.ValueTuple.dll
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\System.Buffers.xml
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\System.Memory.xml
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\System.Numerics.Vectors.xml
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\System.Text.Encodings.Web.xml
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\System.Text.Json.xml
+C:\Users\vginga\Desktop\lic\LicentaV10\Licenta\Licenta\bin\System.ValueTuple.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\Licenta.dll.config
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\Licenta.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\Licenta.pdb
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\roslyn\csc.exe
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\roslyn\csc.exe.config
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\roslyn\csc.rsp
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\roslyn\csi.exe
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\roslyn\csi.exe.config
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\roslyn\csi.rsp
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\roslyn\Microsoft.Managed.Core.targets
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\roslyn\System.AppContext.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\roslyn\System.Collections.Immutable.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\roslyn\System.Console.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\roslyn\System.Globalization.Calendars.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\roslyn\System.IO.Compression.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\roslyn\System.IO.FileSystem.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\roslyn\System.Net.Http.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\roslyn\System.Net.Sockets.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\roslyn\System.Reflection.Metadata.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\roslyn\System.ValueTuple.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\roslyn\System.Xml.XmlDocument.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\roslyn\System.Xml.XPath.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\roslyn\vbc.exe
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\roslyn\vbc.exe.config
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\roslyn\vbc.rsp
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\roslyn\VBCSCompiler.exe
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\roslyn\VBCSCompiler.exe.config
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\Antlr3.Runtime.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\BeginCollectionItem.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\EntityFramework.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\EntityFramework.SqlServer.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\Microsoft.IdentityModel.Logging.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\Microsoft.IdentityModel.Tokens.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.Azure.Authentication.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\Microsoft.Web.Infrastructure.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\Newtonsoft.Json.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\PagedList.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\System.Buffers.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\System.Memory.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\System.Numerics.Vectors.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\System.Text.Encodings.Web.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\System.Text.Json.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\System.Threading.Tasks.Extensions.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\System.ValueTuple.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\System.Web.Helpers.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\System.Web.Mvc.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\System.Web.Optimization.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\System.Web.Razor.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\System.Web.WebPages.Deployment.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\System.Web.WebPages.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\System.Web.WebPages.Razor.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\WebGrease.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\EntityFramework.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\EntityFramework.SqlServer.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\Microsoft.IdentityModel.Tokens.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.Azure.Authentication.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\PagedList.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\System.Buffers.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\System.Memory.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\System.Numerics.Vectors.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\System.Text.Encodings.Web.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\System.Text.Json.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\System.Threading.Tasks.Extensions.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\System.ValueTuple.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\System.Web.Helpers.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\System.Web.Mvc.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\System.Web.Optimization.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\System.Web.Razor.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\System.Web.WebPages.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\System.Web.WebPages.Deployment.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\System.Web.WebPages.Razor.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\Newtonsoft.Json.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\Antlr3.Runtime.pdb
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\obj\Debug\Licenta.csproj.CoreCompileInputs.cache
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\obj\Debug\Licenta.csproj.CopyComplete
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\obj\Debug\Licenta.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\obj\Debug\Licenta.pdb
+D:\facultate\LICENTA\LICENTA APP\LicentaV13\Licenta\Licenta\obj\Debug\Licenta.csprojAssemblyReference.cache
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\BeginCollectionItem.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\PagedList.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\System.Buffers.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\System.Memory.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\System.Numerics.Vectors.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\System.Text.Encodings.Web.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\System.Text.Json.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\System.Threading.Tasks.Extensions.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\System.ValueTuple.dll
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\PagedList.xml
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\System.Buffers.xml
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\System.Memory.xml
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\System.Numerics.Vectors.xml
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\System.Text.Encodings.Web.xml
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\System.Text.Json.xml
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\System.Threading.Tasks.Extensions.xml
+D:\facultate\LICENTA\LICENTA APP\Licenta\Licenta\bin\System.ValueTuple.xml
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\Licenta.dll.config
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\Licenta.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\Licenta.pdb
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\roslyn\csc.exe
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\roslyn\csc.exe.config
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\roslyn\csc.rsp
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\roslyn\csi.exe
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\roslyn\csi.exe.config
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\roslyn\csi.rsp
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\roslyn\System.AppContext.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\roslyn\System.Console.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\roslyn\System.Net.Http.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\roslyn\vbc.exe
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\roslyn\vbc.exe.config
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\roslyn\vbc.rsp
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\Antlr3.Runtime.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\BeginCollectionItem.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\EntityFramework.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\EntityFramework.SqlServer.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.Azure.Authentication.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\Newtonsoft.Json.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\PagedList.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\System.Buffers.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\System.Memory.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\System.Numerics.Vectors.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\System.Text.Encodings.Web.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\System.Text.Json.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\System.ValueTuple.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\System.Web.Helpers.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\System.Web.Mvc.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\System.Web.Optimization.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\System.Web.Razor.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\System.Web.WebPages.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\WebGrease.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\EntityFramework.xml
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\EntityFramework.SqlServer.xml
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.Azure.Authentication.xml
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\PagedList.xml
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\System.Buffers.xml
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\System.Memory.xml
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\System.Numerics.Vectors.xml
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\System.Text.Encodings.Web.xml
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\System.Text.Json.xml
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\System.ValueTuple.xml
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\System.Web.Helpers.xml
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\System.Web.Mvc.xml
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\System.Web.Optimization.xml
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\System.Web.Razor.xml
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\System.Web.WebPages.xml
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\Newtonsoft.Json.xml
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\Antlr3.Runtime.pdb
+C:\Users\Ioana\Desktop\Licenta\Licenta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ioana\Desktop\Licenta\Licenta\obj\Debug\Licenta.csproj.CoreCompileInputs.cache
+C:\Users\Ioana\Desktop\Licenta\Licenta\obj\Debug\Licenta.csproj.CopyComplete
+C:\Users\Ioana\Desktop\Licenta\Licenta\obj\Debug\Licenta.dll
+C:\Users\Ioana\Desktop\Licenta\Licenta\obj\Debug\Licenta.pdb
+C:\Users\Ioana\Desktop\Licenta\Licenta\obj\Debug\Licenta.csprojAssemblyReference.cache
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\Licenta.dll.config
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\Licenta.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\Licenta.pdb
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\roslyn\csc.exe
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\roslyn\csc.exe.config
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\roslyn\csc.rsp
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\roslyn\csi.exe
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\roslyn\csi.exe.config
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\roslyn\csi.rsp
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\roslyn\System.AppContext.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\roslyn\System.Console.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\roslyn\System.IO.Compression.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\roslyn\System.Net.Http.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\roslyn\System.Net.Sockets.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\roslyn\System.ValueTuple.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\roslyn\System.Xml.XPath.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\roslyn\vbc.exe
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\roslyn\vbc.exe.config
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\roslyn\vbc.rsp
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\roslyn\VBCSCompiler.exe
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\Antlr3.Runtime.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\BeginCollectionItem.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\EntityFramework.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\EntityFramework.SqlServer.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.Azure.Authentication.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\Newtonsoft.Json.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\PagedList.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\System.Buffers.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\System.Memory.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\System.Numerics.Vectors.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\System.Text.Encodings.Web.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\System.Text.Json.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\System.ValueTuple.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\System.Web.Helpers.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\System.Web.Mvc.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\System.Web.Optimization.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\System.Web.Razor.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\System.Web.WebPages.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\System.Web.WebPages.Razor.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\WebGrease.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\EntityFramework.xml
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\EntityFramework.SqlServer.xml
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.Azure.Authentication.xml
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\PagedList.xml
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\System.Buffers.xml
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\System.Memory.xml
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\System.Numerics.Vectors.xml
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\System.Text.Encodings.Web.xml
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\System.Text.Json.xml
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\System.ValueTuple.xml
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\System.Web.Helpers.xml
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\System.Web.Mvc.xml
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\System.Web.Optimization.xml
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\System.Web.Razor.xml
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\System.Web.WebPages.xml
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\System.Web.WebPages.Razor.xml
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\Newtonsoft.Json.xml
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\Antlr3.Runtime.pdb
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\obj\Debug\Licenta.csproj.CoreCompileInputs.cache
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\obj\Debug\Licenta.csproj.CopyComplete
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\obj\Debug\Licenta.dll
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\obj\Debug\Licenta.pdb
+C:\Users\vginga\Desktop\lic\licenta v14\Licenta\Licenta\obj\Debug\Licenta.csprojAssemblyReference.cache
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\Licenta.dll.config
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\Licenta.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\Licenta.pdb
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\roslyn\csc.exe
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\roslyn\csc.exe.config
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\roslyn\csc.rsp
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\roslyn\csi.exe
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\roslyn\csi.exe.config
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\roslyn\csi.rsp
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\roslyn\Microsoft.Managed.Core.targets
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\roslyn\System.AppContext.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\roslyn\System.Collections.Immutable.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\roslyn\System.Console.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\roslyn\System.Globalization.Calendars.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\roslyn\System.IO.Compression.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\roslyn\System.IO.FileSystem.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\roslyn\System.Net.Http.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\roslyn\System.Net.Sockets.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\roslyn\System.Reflection.Metadata.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\roslyn\System.ValueTuple.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\roslyn\System.Xml.XmlDocument.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\roslyn\System.Xml.XPath.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\roslyn\vbc.exe
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\roslyn\vbc.exe.config
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\roslyn\vbc.rsp
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\roslyn\VBCSCompiler.exe
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\roslyn\VBCSCompiler.exe.config
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\Antlr3.Runtime.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\BeginCollectionItem.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\EntityFramework.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\EntityFramework.SqlServer.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\Microsoft.IdentityModel.Logging.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\Microsoft.IdentityModel.Tokens.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.Azure.Authentication.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\Microsoft.Web.Infrastructure.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\Newtonsoft.Json.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\PagedList.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\System.Buffers.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\System.Memory.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\System.Numerics.Vectors.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\System.Text.Encodings.Web.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\System.Text.Json.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\System.Threading.Tasks.Extensions.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\System.ValueTuple.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\System.Web.Helpers.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\System.Web.Mvc.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\System.Web.Optimization.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\System.Web.Razor.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\System.Web.WebPages.Deployment.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\System.Web.WebPages.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\System.Web.WebPages.Razor.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\WebGrease.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\EntityFramework.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\EntityFramework.SqlServer.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\Microsoft.IdentityModel.Tokens.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\Microsoft.Rest.ClientRuntime.Azure.Authentication.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\PagedList.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\System.Buffers.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\System.Memory.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\System.Numerics.Vectors.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\System.Text.Encodings.Web.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\System.Text.Json.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\System.Threading.Tasks.Extensions.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\System.ValueTuple.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\System.Web.Helpers.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\System.Web.Mvc.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\System.Web.Optimization.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\System.Web.Razor.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\System.Web.WebPages.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\System.Web.WebPages.Deployment.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\System.Web.WebPages.Razor.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\Newtonsoft.Json.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\Antlr3.Runtime.pdb
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\obj\Debug\Licenta.csproj.CoreCompileInputs.cache
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\obj\Debug\Licenta.csproj.CopyComplete
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\obj\Debug\Licenta.dll
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\obj\Debug\Licenta.pdb
+D:\facultate\LICENTA\LICENTA APP\LicentaV15\Licenta\Licenta\obj\Debug\Licenta.csprojAssemblyReference.cache

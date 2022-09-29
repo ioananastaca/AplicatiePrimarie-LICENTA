@@ -1,0 +1,86 @@
+﻿<p id="red" style="font-size:22px;">Formulare</p>
+<div>
+    <p class="fromular">Beneficii sociale</p>
+    @{
+        var dir = Server.MapPath("~/Documents/Social/");
+        string[] fileEntries = Directory.GetFiles(dir);
+        foreach (string fullFileName in fileEntries)
+        {
+            var file = fullFileName.Split('\\').Last();
+            var fileUrl = "https://" + HttpContext.Current.Request.Url.Authority + "/Documents/Social/" + @file;
+            <a href=@fileUrl>@file</a>
+        }
+    }
+</div>
+
+<br />
+
+<div>
+    <p class="fromular">Indemnizație creștere copil</p>
+    @{
+        var dir2 = Server.MapPath("~/Documents/Indemnizatie/");
+        string[] fileEntries2 = Directory.GetFiles(dir2);
+        foreach (string fullFileName in fileEntries2)
+        {
+            var file = fullFileName.Split('\\').Last();
+            var fileUrl = "https://" + HttpContext.Current.Request.Url.Authority + "/Documents/Indemnizatie/" + @file;
+            <a href=@fileUrl>@file</a>
+            <br />
+        }
+    }
+</div>
+
+<br />
+
+<div>
+    <p class="fromular">Tichet social preșcolari și elevi</p>
+    @{
+        var dir3 = Server.MapPath("~/Documents/Tichet/");
+        string[] fileEntries3 = Directory.GetFiles(dir3);
+        foreach (string fullFileName in fileEntries3)
+        {
+            var file = fullFileName.Split('\\').Last();
+            var fileUrl = "https://" + HttpContext.Current.Request.Url.Authority + "/Documents/Tichet/" + @file;
+            <a href=@fileUrl>@file</a>
+            <br />
+        }
+    }
+</div>
+
+<br />
+
+<div>
+    <p class="fromular">Urbanism</p>
+    @{
+        var dir4 = Server.MapPath("~/Documents/Urbanism/");
+        string[] fileEntries4 = Directory.GetFiles(dir4);
+        foreach (string fullFileName in fileEntries4)
+        {
+            var file = fullFileName.Split('\\').Last();
+            var fileUrl = "https://" + HttpContext.Current.Request.Url.Authority + "/Documents/Urbanism/" + @file;
+            <a href=@fileUrl>@file</a>
+            <br />
+        }
+    }
+</div>
+<br />
+<div>
+    <p class="fromular">Cadastru fond funciar</p>
+    @{
+        var dir5 = Server.MapPath("~/Documents/Cadastru/");
+        string[] fileEntries5 = Directory.GetFiles(dir5);
+        foreach (string fullFileName in fileEntries5)
+        {
+            var file = fullFileName.Split('\\').Last();
+            var fileUrl = "https://" + HttpContext.Current.Request.Url.Authority + "/Documents/Cadastru/" + @file;
+            <a href=@fileUrl>@file</a>
+            <br />
+        }
+    }
+</div>
+<style>
+    .fromular {
+        color: darkblue;
+        font-size: 18px;
+    }
+</style>

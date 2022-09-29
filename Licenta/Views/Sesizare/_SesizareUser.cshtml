@@ -1,0 +1,47 @@
+﻿@model Licenta.Models.Sesizare
+
+<h1>Depune sesizare</h1>
+
+
+<p id="tips">Prin SESIZARE se înţelege cererea, reclamaţia sau propunerea formulată în scris ori prin postă electronică, pe care un cetăţean sau o organizaţie legal constituită o poate adresa autorităţilor şi instituţiilor publice centrale şi locale, serviciilor publice descentralizate ale ministerelor şi ale celorlalte organe centrale, companiilor şi societăţilor naţionale, societăţilor comerciale de interes judeţean sau local, precum şi regiilor autonome, denumite în continuare autorităţi si instituţii publice. (art. 2 din Ordonanţa Guvernului nr. 27/2002 privind reglementarea activităţii de soluţionare a petiţiilor cu modificările ulterioare).</p>@using (Html.BeginForm("SesizareUser", "Sesizare"))
+{
+    @Html.ValidationSummary(true, "Campurile de mai jos sunt obligatorii")
+    <div class="form-group" id="tips">
+        @Html.LabelFor(m => m.TitluSesizare, "Titlul sesizarii")
+        @Html.TextBoxFor(m => m.TitluSesizare, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.TitluSesizare)
+    </div>
+    <div class="form-group" id="tips">
+        @Html.LabelFor(m => m.Adresa)
+        @Html.TextBoxFor(m => m.Adresa, new { @class = "form-control" })
+    </div>
+    <div class="form-group" id="tips">
+        @Html.LabelFor(m => m.Descriere)
+        @Html.TextBoxFor(m => m.Descriere, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Descriere)
+    </div>
+    <div class="form-group" id="tips">
+        @Html.LabelFor(m => m.esteUrgenta, "Sesizarea dumnevoastră este urgenta?")
+        @Html.CheckBoxFor(m => m.esteUrgenta, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.esteUrgenta)
+    </div>
+    <div style="text-align:center">
+        <button class="btn" style="width:400px;">Trimite</button>
+    </div>
+    <din style="font-size:18px;">
+        <br />
+        <label class="field-validation-error"  style="color:blue"> @Html.DisplayFor(m => m.Message)</label>
+    </din>
+}
+
+<style>
+    h1 {
+        text-align: start;
+        color: palevioletred;
+    }
+
+    #tips {
+        font-size: 20px;
+        color: black;
+    }
+</style>

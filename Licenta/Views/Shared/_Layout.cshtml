@@ -1,0 +1,118 @@
+﻿@using Licenta.Models
+<!DOCTYPE html>
+<html>
+<head>
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    @Scripts.Render("~/bundles/lib")
+    @Scripts.Render("~/bundles/jqueryui")
+
+
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header" >
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Primăria Bogdănești", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav" style="font-size:17px;" >
+                    <li>@Html.ActionLink("Acasă", "Index", "Home")</li>
+                    <li>@Html.ActionLink("Programări/Documente", "Index", "Programari")</li>
+                    <li>@Html.ActionLink("Depunere sesizări", "Index", "Sesizare")</li>
+                    @if (!AppSession.Instance().IsUserLogged)
+                    {
+                        <li>@Html.ActionLink("Autentificare", "Index", "Login")</li>
+                    }
+                    else
+                    {
+                        <li>
+                            <div class="dropdown">
+                                <button class="btn dropdown-toggle" type="button" data-toggle="dropdown">
+                                    Buna ziua @AppSession.Instance().LoggedUser.EmailAddress
+                                    <span class="caret"></span>
+                                </button>
+                                <ul class="dropdown-menu">
+                                    @if (!AppSession.Instance().LoggedUser.IsAdmin)
+                                    {
+                                        <li>@Html.ActionLink("Activitatile mele", "Index", "UserProfile")</li>
+                                    }
+                                    else
+                                    {
+                                        <li>@Html.ActionLink("Statistici", "GetStatistics", "UserProfile")</li>
+                                    }
+
+
+                                    <li><a href="@Url.Action("LogOut","Login")">Logout</a></li>
+
+                                </ul>
+                            </div>
+                        </li>
+                    }
+
+
+                </ul>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="container body-content">
+        @RenderBody()
+    </div>
+
+
+    <footer id="footer">
+        <hr />
+
+        <div class="row" id="black" style="padding:20px 20px 20px 20px">
+            <div class="col-lg-6">
+                <p id="red">&copy; @DateTime.Now.Year - Primăria comunei Bogdănești, Suceava</p>
+                <p>Telefon: 0756830839</p>
+                <p>Email: bogdanestiSV@email.com</p>
+                <p>Program: L-V / 8:00-16:00</p>
+            </div>
+            <div class="col-lg-6" style="text-align:right">
+                <p id="red">Ia contact cu cine ai nevoie:</p>
+                <p>Dispensar: 0756837464 / dispensarBog@gmail.com</p>
+                <p>Stomatolog: 0753637449</p>
+                <p>Biserica "Adormirea Maicii Domnului": 0788888888(Preot)</p>
+                <p>Biserica pe stil vechi: 0743564655(Preot)</p>
+                <p>Pompe funebre: 0787374544</p>
+            </div>
+
+        </div>
+
+    </footer>
+</body>
+
+
+
+
+</html>
+
+<style>
+
+    #footer {
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 50px;
+        padding-bottom: 20px;
+        color: black;
+        font-size: 14px;
+    }
+</style>
+
+
+
+@RenderSection("Scripts", required: false)
+

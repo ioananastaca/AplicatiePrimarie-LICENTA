@@ -1,0 +1,70 @@
+﻿@model List<Audience>
+<table id="marriageTable" class="table table-bordered table-hover">
+
+    <thead>
+        <tr>
+            <th>Id audienta</th>
+            <th>Id user</th>
+            <th>Nume si prenume</th>
+            <th>Telefon</th>
+            <th>Audienta solicitata la</th>
+            <th>Motivul</th>
+            <th>Anulata</th>
+            <th>Mentiuni</th>
+        </tr>
+    </thead>
+    <tbody>
+        @for (int i = 0; i < Model.Count; i++)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(x => x[i].IdAudienta)
+                    @Html.HiddenFor(x => x[i].IdAudienta)
+                </td>
+                <td>
+                    @Html.DisplayFor(x => x[i].UserId)
+                    @Html.HiddenFor(x => x[i].UserId)
+                </td>
+                <td>
+                    @Html.DisplayFor(x => x[i].Nume)
+                    @Html.HiddenFor(x => x[i].Nume)
+                </td>
+                <td>
+                    @Html.DisplayFor(x => x[i].Telefon)
+                    @Html.HiddenFor(x => x[i].Telefon)
+                </td>
+                <td>
+                    @Html.DisplayFor(x => x[i].SolicitareLa)
+                    @Html.HiddenFor(x => x[i].SolicitareLa)
+                </td>
+                <td>
+                    @Html.DisplayFor(x => x[i].Motiv)
+                    @Html.HiddenFor(x => x[i].Motiv)
+                </td>
+
+                <td>
+                    @Html.CheckBoxFor(x => x[i].isCanceled, new { @disabled = "disabled" })
+                    @Html.HiddenFor(x => x[i].isCanceled)
+                </td>
+                <td>
+                    @Html.DisplayFor(x => x[i].Mentiuni)
+                    @*@Html.HiddenFor(x => x[i].Mentiuni)*@
+                </td>
+                <td>
+                    <div class="form-group">
+                        @Html.TextBoxFor(x => x[i].Mentiuni, new { @class = "form-control", id = "mentiunea[" + @Model[i].IdAudienta + "]" })
+                    </div>
+                </td>
+
+                <td>
+                    <input type="submit"  value="Salveaza mentiuni" onclick="location.href='@Url.Action("SaveMentiuni", "Programari")'+'?audienceId='+@Model[i].IdAudienta+'&mentiune=' + document.getElementById('mentiunea['+@Model[i].IdAudienta+']').value" />
+
+                </td>
+                <td>
+                    <input type="submit" class="show_alert" value="Sterge" show_alert="Esti sigur?" nextUrlAction="'@Url.Action("DeleteAudience", "Programari",
+                                                                                                             new { audienceId = @Model[i].IdAudienta})'" />
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

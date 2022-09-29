@@ -1,0 +1,24 @@
+﻿@{
+    ViewBag.Title = "Statistici";
+}
+
+
+<h1 style="text-align:center">Statistici</h1>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<div class="row">
+    <div class="col-md-6" style="text-align:center;font-size:25px">
+        @Html.ActionLink("Grafic programări căsătorie", "GetMarriagesChart",null, new { @style = "color:white;" })
+        <div style="text-align:center;font-size:300px;" >
+            <i class="fa fa-line-chart" aria-hidden="true"></i>
+        </div>
+    </div>
+
+    <div class="col-md-6" style="text-align:center;font-size:25px" >
+        @Html.ActionLink("Grafic audiențe înregistrare", "GetAudiencesChart", null, new { @style = "color:white;" })
+        <div style="text-align:center;font-size:300px;">
+            <i class="fa fa-pie-chart" aria-hidden="true"></i>
+        </div>
+    </div>
+</div>
+
+

@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DbLicentaModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="DbLicentaEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="User" EntityType="DbLicentaModel.User" />
+    <EntitySet Name="Report" EntityType="DbLicentaModel.Report" />
+    <AssociationSet Name="FK_Report_ToUser" Association="DbLicentaModel.FK_Report_ToUser">
+      <End Role="User" EntitySet="User" />
+      <End Role="Report" EntitySet="Report" />
+    </AssociationSet>
+    <EntitySet Name="Marriage" EntityType="DbLicentaModel.Marriage" />
+    <AssociationSet Name="FK_MarriageRegistral_ToUser" Association="DbLicentaModel.FK_MarriageRegistral_ToUser">
+      <End Role="User" EntitySet="User" />
+      <End Role="Marriage" EntitySet="Marriage" />
+    </AssociationSet>
+    <EntitySet Name="Audience" EntityType="DbLicentaModel.Audience" />
+    <AssociationSet Name="FK_Audience_ToUser" Association="DbLicentaModel.FK_Audience_ToUser">
+      <End Role="User" EntitySet="User" />
+      <End Role="Audience" EntitySet="Audience" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="EmailAddress" Type="String" Nullable="false" MaxLength="50" FixedLength="true" Unicode="true" />
+    <Property Name="Password" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="IsAdmin" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="Report" Relationship="DbLicentaModel.FK_Report_ToUser" FromRole="User" ToRole="Report" />
+    <NavigationProperty Name="Marriage" Relationship="DbLicentaModel.FK_MarriageRegistral_ToUser" FromRole="User" ToRole="Marriage" />
+    <NavigationProperty Name="Audience" Relationship="DbLicentaModel.FK_Audience_ToUser" FromRole="User" ToRole="Audience" />
+  </EntityType>
+  <EntityType Name="Report">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TitlulSesizarii" Type="String" Nullable="false" MaxLength="50" FixedLength="true" Unicode="true" />
+    <Property Name="Adresa" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+    <Property Name="Descriere" Type="String" Nullable="false" MaxLength="300" FixedLength="false" Unicode="true" />
+    <Property Name="EsteUrgenta" Type="Boolean" Nullable="false" />
+    <Property Name="UserId" Type="Int32" Nullable="false" />
+    <Property Name="IsResolved" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="User" Relationship="DbLicentaModel.FK_Report_ToUser" FromRole="Report" ToRole="User" />
+  </EntityType>
+  <Association Name="FK_Report_ToUser">
+    <End Type="DbLicentaModel.User" Role="User" Multiplicity="1" />
+    <End Type="DbLicentaModel.Report" Role="Report" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Report">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="Marriage">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Date" Type="String" Nullable="false" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="Hour" Type="String" Nullable="false" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="HusbandName" Type="String" Nullable="false" MaxLength="50" FixedLength="true" Unicode="true" />
+    <Property Name="HusbandCNP" Type="String" Nullable="false" MaxLength="20" FixedLength="true" Unicode="true" />
+    <Property Name="WifeName" Type="String" Nullable="false" MaxLength="50" FixedLength="true" Unicode="true" />
+    <Property Name="WifeCNP" Type="String" Nullable="false" MaxLength="20" FixedLength="true" Unicode="true" />
+    <Property Name="EmailAdress" Type="String" Nullable="false" MaxLength="50" FixedLength="true" Unicode="true" />
+    <Property Name="PhoneNumber" Type="String" Nullable="false" MaxLength="15" FixedLength="true" Unicode="true" />
+    <Property Name="UserId" Type="Int32" Nullable="false" />
+    <Property Name="IsCanceled" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="User" Relationship="DbLicentaModel.FK_MarriageRegistral_ToUser" FromRole="Marriage" ToRole="User" />
+  </EntityType>
+  <Association Name="FK_MarriageRegistral_ToUser">
+    <End Type="DbLicentaModel.User" Role="User" Multiplicity="1" />
+    <End Type="DbLicentaModel.Marriage" Role="Marriage" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Marriage">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="Audience">
+    <Key>
+      <PropertyRef Name="IdAudienta" />
+    </Key>
+    <Property Name="IdAudienta" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nume" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+    <Property Name="SolicitareLa" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+    <Property Name="Telefon" Type="String" MaxLength="12" FixedLength="true" Unicode="true" />
+    <Property Name="Motiv" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+    <Property Name="UserId" Type="Int32" />
+    <Property Name="isCanceled" Type="Boolean" Nullable="false" />
+    <Property Name="Mentiuni" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+    <NavigationProperty Name="User" Relationship="DbLicentaModel.FK_Audience_ToUser" FromRole="Audience" ToRole="User" />
+  </EntityType>
+  <Association Name="FK_Audience_ToUser">
+    <End Type="DbLicentaModel.User" Role="User" Multiplicity="0..1" />
+    <End Type="DbLicentaModel.Audience" Role="Audience" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Audience">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

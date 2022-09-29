@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="DbLicentaModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Audience">
+          <Key>
+            <PropertyRef Name="IdAudienta" />
+          </Key>
+          <Property Name="IdAudienta" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Nume" Type="nchar" MaxLength="50" />
+          <Property Name="SolicitareLa" Type="nchar" MaxLength="50" />
+          <Property Name="Telefon" Type="nchar" MaxLength="12" />
+          <Property Name="Motiv" Type="nchar" MaxLength="50" />
+          <Property Name="UserId" Type="int" />
+          <Property Name="isCanceled" Type="bit" Nullable="false" />
+          <Property Name="Mentiuni" Type="nchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="Marriage">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Date" Type="nchar" MaxLength="10" Nullable="false" />
+          <Property Name="Hour" Type="nchar" MaxLength="10" Nullable="false" />
+          <Property Name="HusbandName" Type="nchar" MaxLength="50" Nullable="false" />
+          <Property Name="HusbandCNP" Type="nchar" MaxLength="20" Nullable="false" />
+          <Property Name="WifeName" Type="nchar" MaxLength="50" Nullable="false" />
+          <Property Name="WifeCNP" Type="nchar" MaxLength="20" Nullable="false" />
+          <Property Name="EmailAdress" Type="nchar" MaxLength="50" Nullable="false" />
+          <Property Name="PhoneNumber" Type="nchar" MaxLength="15" Nullable="false" />
+          <Property Name="UserId" Type="int" Nullable="false" />
+          <Property Name="IsCanceled" Type="bit" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Report">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="TitlulSesizarii" Type="nchar" MaxLength="50" Nullable="false" />
+          <Property Name="Adresa" Type="nchar" MaxLength="50" />
+          <Property Name="Descriere" Type="nvarchar" MaxLength="300" Nullable="false" />
+          <Property Name="EsteUrgenta" Type="bit" Nullable="false" />
+          <Property Name="UserId" Type="int" Nullable="false" />
+          <Property Name="IsResolved" Type="bit" Nullable="false" />
+        </EntityType>
+        <EntityType Name="User">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="EmailAddress" Type="nchar" MaxLength="50" Nullable="false" />
+          <Property Name="Password" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="IsAdmin" Type="bit" Nullable="false" />
+        </EntityType>
+        <Association Name="FK_Audience_ToUser">
+          <End Role="User" Type="Self.User" Multiplicity="0..1" />
+          <End Role="Audience" Type="Self.Audience" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="User">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Audience">
+              <PropertyRef Name="UserId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_MarriageRegistral_ToUser">
+          <End Role="User" Type="Self.User" Multiplicity="1" />
+          <End Role="Marriage" Type="Self.Marriage" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="User">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Marriage">
+              <PropertyRef Name="UserId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Report_ToUser">
+          <End Role="User" Type="Self.User" Multiplicity="1" />
+          <End Role="Report" Type="Self.Report" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="User">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Report">
+              <PropertyRef Name="UserId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="DbLicentaModelStoreContainer">
+          <EntitySet Name="Audience" EntityType="Self.Audience" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Marriage" EntityType="Self.Marriage" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Report" EntityType="Self.Report" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="User" EntityType="Self.User" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_Audience_ToUser" Association="Self.FK_Audience_ToUser">
+            <End Role="User" EntitySet="User" />
+            <End Role="Audience" EntitySet="Audience" />
+          </AssociationSet>
+          <AssociationSet Name="FK_MarriageRegistral_ToUser" Association="Self.FK_MarriageRegistral_ToUser">
+            <End Role="User" EntitySet="User" />
+            <End Role="Marriage" EntitySet="Marriage" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Report_ToUser" Association="Self.FK_Report_ToUser">
+            <End Role="User" EntitySet="User" />
+            <End Role="Report" EntitySet="Report" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="DbLicentaModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityContainer Name="DbLicentaEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="User" EntityType="DbLicentaModel.User" />
+          <EntitySet Name="Report" EntityType="DbLicentaModel.Report" />
+          <AssociationSet Name="FK_Report_ToUser" Association="DbLicentaModel.FK_Report_ToUser">
+            <End Role="User" EntitySet="User" />
+            <End Role="Report" EntitySet="Report" />
+          </AssociationSet>
+          <EntitySet Name="Marriage" EntityType="DbLicentaModel.Marriage" />
+          <AssociationSet Name="FK_MarriageRegistral_ToUser" Association="DbLicentaModel.FK_MarriageRegistral_ToUser">
+            <End Role="User" EntitySet="User" />
+            <End Role="Marriage" EntitySet="Marriage" />
+          </AssociationSet>
+          <EntitySet Name="Audience" EntityType="DbLicentaModel.Audience" />
+          <AssociationSet Name="FK_Audience_ToUser" Association="DbLicentaModel.FK_Audience_ToUser">
+            <End Role="User" EntitySet="User" />
+            <End Role="Audience" EntitySet="Audience" />
+          </AssociationSet>
+        </EntityContainer>
+        <EntityType Name="User">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="EmailAddress" Type="String" Nullable="false" MaxLength="50" FixedLength="true" Unicode="true" />
+          <Property Name="Password" Type="String" Nullable="false" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="IsAdmin" Type="Boolean" Nullable="false" />
+          <NavigationProperty Name="Report" Relationship="DbLicentaModel.FK_Report_ToUser" FromRole="User" ToRole="Report" />
+          <NavigationProperty Name="Marriage" Relationship="DbLicentaModel.FK_MarriageRegistral_ToUser" FromRole="User" ToRole="Marriage" />
+          <NavigationProperty Name="Audience" Relationship="DbLicentaModel.FK_Audience_ToUser" FromRole="User" ToRole="Audience" />
+        </EntityType>
+        <EntityType Name="Report">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="TitlulSesizarii" Type="String" Nullable="false" MaxLength="50" FixedLength="true" Unicode="true" />
+          <Property Name="Adresa" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+          <Property Name="Descriere" Type="String" Nullable="false" MaxLength="300" FixedLength="false" Unicode="true" />
+          <Property Name="EsteUrgenta" Type="Boolean" Nullable="false" />
+          <Property Name="UserId" Type="Int32" Nullable="false" />
+          <Property Name="IsResolved" Type="Boolean" Nullable="false" />
+          <NavigationProperty Name="User" Relationship="DbLicentaModel.FK_Report_ToUser" FromRole="Report" ToRole="User" />
+        </EntityType>
+        <Association Name="FK_Report_ToUser">
+          <End Type="DbLicentaModel.User" Role="User" Multiplicity="1" />
+          <End Type="DbLicentaModel.Report" Role="Report" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="User">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Report">
+              <PropertyRef Name="UserId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityType Name="Marriage">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Date" Type="String" Nullable="false" MaxLength="10" FixedLength="true" Unicode="true" />
+          <Property Name="Hour" Type="String" Nullable="false" MaxLength="10" FixedLength="true" Unicode="true" />
+          <Property Name="HusbandName" Type="String" Nullable="false" MaxLength="50" FixedLength="true" Unicode="true" />
+          <Property Name="HusbandCNP" Type="String" Nullable="false" MaxLength="20" FixedLength="true" Unicode="true" />
+          <Property Name="WifeName" Type="String" Nullable="false" MaxLength="50" FixedLength="true" Unicode="true" />
+          <Property Name="WifeCNP" Type="String" Nullable="false" MaxLength="20" FixedLength="true" Unicode="true" />
+          <Property Name="EmailAdress" Type="String" Nullable="false" MaxLength="50" FixedLength="true" Unicode="true" />
+          <Property Name="PhoneNumber" Type="String" Nullable="false" MaxLength="15" FixedLength="true" Unicode="true" />
+          <Property Name="UserId" Type="Int32" Nullable="false" />
+          <Property Name="IsCanceled" Type="Boolean" Nullable="false" />
+          <NavigationProperty Name="User" Relationship="DbLicentaModel.FK_MarriageRegistral_ToUser" FromRole="Marriage" ToRole="User" />
+        </EntityType>
+        <Association Name="FK_MarriageRegistral_ToUser">
+          <End Type="DbLicentaModel.User" Role="User" Multiplicity="1" />
+          <End Type="DbLicentaModel.Marriage" Role="Marriage" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="User">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Marriage">
+              <PropertyRef Name="UserId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityType Name="Audience">
+          <Key>
+            <PropertyRef Name="IdAudienta" />
+          </Key>
+          <Property Name="IdAudienta" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Nume" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+          <Property Name="SolicitareLa" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+          <Property Name="Telefon" Type="String" MaxLength="12" FixedLength="true" Unicode="true" />
+          <Property Name="Motiv" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+          <Property Name="UserId" Type="Int32" />
+          <Property Name="isCanceled" Type="Boolean" Nullable="false" />
+          <Property Name="Mentiuni" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+          <NavigationProperty Name="User" Relationship="DbLicentaModel.FK_Audience_ToUser" FromRole="Audience" ToRole="User" />
+        </EntityType>
+        <Association Name="FK_Audience_ToUser">
+          <End Type="DbLicentaModel.User" Role="User" Multiplicity="0..1" />
+          <End Type="DbLicentaModel.Audience" Role="Audience" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="User">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Audience">
+              <PropertyRef Name="UserId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="DbLicentaModelStoreContainer" CdmEntityContainer="DbLicentaEntities">
+          <EntitySetMapping Name="User">
+            <EntityTypeMapping TypeName="DbLicentaModel.User">
+              <MappingFragment StoreEntitySet="User">
+                <ScalarProperty Name="IsAdmin" ColumnName="IsAdmin" />
+                <ScalarProperty Name="Password" ColumnName="Password" />
+                <ScalarProperty Name="EmailAddress" ColumnName="EmailAddress" />
+                <ScalarProperty Name="Id" ColumnName="Id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Report">
+            <EntityTypeMapping TypeName="DbLicentaModel.Report">
+              <MappingFragment StoreEntitySet="Report">
+                <ScalarProperty Name="IsResolved" ColumnName="IsResolved" />
+                <ScalarProperty Name="UserId" ColumnName="UserId" />
+                <ScalarProperty Name="EsteUrgenta" ColumnName="EsteUrgenta" />
+                <ScalarProperty Name="Descriere" ColumnName="Descriere" />
+                <ScalarProperty Name="Adresa" ColumnName="Adresa" />
+                <ScalarProperty Name="TitlulSesizarii" ColumnName="TitlulSesizarii" />
+                <ScalarProperty Name="Id" ColumnName="Id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Marriage">
+            <EntityTypeMapping TypeName="DbLicentaModel.Marriage">
+              <MappingFragment StoreEntitySet="Marriage">
+                <ScalarProperty Name="IsCanceled" ColumnName="IsCanceled" />
+                <ScalarProperty Name="UserId" ColumnName="UserId" />
+                <ScalarProperty Name="PhoneNumber" ColumnName="PhoneNumber" />
+                <ScalarProperty Name="EmailAdress" ColumnName="EmailAdress" />
+                <ScalarProperty Name="WifeCNP" ColumnName="WifeCNP" />
+                <ScalarProperty Name="WifeName" ColumnName="WifeName" />
+                <ScalarProperty Name="HusbandCNP" ColumnName="HusbandCNP" />
+                <ScalarProperty Name="HusbandName" ColumnName="HusbandName" />
+                <ScalarProperty Name="Hour" ColumnName="Hour" />
+                <ScalarProperty Name="Date" ColumnName="Date" />
+                <ScalarProperty Name="Id" ColumnName="Id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Audience">
+            <EntityTypeMapping TypeName="DbLicentaModel.Audience">
+              <MappingFragment StoreEntitySet="Audience">
+                <ScalarProperty Name="Mentiuni" ColumnName="Mentiuni" />
+                <ScalarProperty Name="isCanceled" ColumnName="isCanceled" />
+                <ScalarProperty Name="UserId" ColumnName="UserId" />
+                <ScalarProperty Name="Motiv" ColumnName="Motiv" />
+                <ScalarProperty Name="Telefon" ColumnName="Telefon" />
+                <ScalarProperty Name="SolicitareLa" ColumnName="SolicitareLa" />
+                <ScalarProperty Name="Nume" ColumnName="Nume" />
+                <ScalarProperty Name="IdAudienta" ColumnName="IdAudienta" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="False" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="True" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

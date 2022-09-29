@@ -1,0 +1,162 @@
+
+@using Licenta.Models
+@{
+    ViewBag.Title = "Programări";
+}
+
+
+<div class="header">
+    <h2>Primăria comunei Bogdănești</h2>
+    <hr id="line">
+</div>
+
+@if (AppSession.Instance().LoggedUser == null)
+{
+    <div class="row">
+        <div class="col-sm-3 civil">
+            <div class="chenar">
+                <p>Stare civila</p>
+                <br />
+                <p>@Html.ActionLink("Înregistrarea nașteri", "InregistrareNasteri", "Documente") </p>
+                <p>@Html.ActionLink("Înregistrarea casătoriei", "InregistrareCasatorie", "Documente") </p>
+                <p>@Html.ActionLink("Înregistrarea decesului", "InregistrareDeces", "Documente") </p>
+                <p>@Html.ActionLink("Eliberarea / Preschimbarea certificatelor de stare civila", "EliberareCertificateStareCivila", "Documente") </p>
+                <p>@Html.ActionLink("Divort pe cale administrativa", "Divort", "Documente") </p>
+                <p>@Html.ActionLink("Livretul familiei", "LivretulFamiliei", "Documente") </p>
+            </div>
+        </div>
+        <div class="col-sm-6">
+            <h2>Pentru a putea face o programre trebuie sa fiti autentificat.</h2>
+            <div>
+                <button class="btn">@Html.ActionLink("Autentificare", "Index", "Login")</button>
+            </div>
+        </div>
+        <div class="col-sm-3 ">
+            <div class="chenar">
+
+
+                @{
+                    var dir = Server.MapPath("~/Documents/");
+                    string[] fileEntries = Directory.GetFiles(dir);
+                    foreach (string fullFileName in fileEntries)
+                    {
+                        var file = fullFileName.Split('\\').Last();
+                        var fileUrl = "https://" + HttpContext.Current.Request.Url.Authority + "/Documents/" + @file;
+                        <a href=@fileUrl>@file</a>
+                    }
+                }
+                <p> Aici documente de descarcat</p>
+            </div>
+        </div>
+    </div>
+}
+else if (AppSession.Instance().LoggedUser.IsAdmin)
+{
+    <div>
+        <h1>Programari casatorie</h1>
+        @Html.Action("ProgramareCasatorieTable")
+    </div>
+    <div>
+        <h1>Audiente inregistrate</h1>
+        @Html.Action("AudientaTable")
+    </div>
+
+
+}
+else
+{
+    <div class="row">
+        <div class="col-sm-3 civil">
+            <div class="chenar">
+                <p>Stare civila</p>
+                <br />
+                <p>@Html.ActionLink("Înregistrarea nașteri", "InregistrareNasteri", "Documente") </p>
+                <p>@Html.ActionLink("Înregistrarea casătoriei", "InregistrareCasatorie", "Documente") </p>
+                <p>@Html.ActionLink("Înregistrarea decesului", "InregistrareDeces", "Documente") </p>
+                <p>@Html.ActionLink("Eliberarea / Preschimbarea certificatelor de stare civila", "EliberareCertificateStareCivila", "Documente") </p>
+                <p>@Html.ActionLink("Divort pe cale administrativa", "Divort", "Documente") </p>
+                <p>@Html.ActionLink("Livretul familiei", "LivretulFamiliei", "Documente") </p>
+            </div>
+        </div>
+        <div class="col-sm-6">
+            <div id="user">
+                <h1>Bun Venit!</h1>
+                <p>Administrația locală îți mulțmește că ai ales acestă cale ușoară de a-ți rezolva problemele.</p>
+                <p>Împreună contribuim la dezvoltarea comunității noastre.</p>
+
+                <h1>Programare casatorie</h1>
+                <img src="~/image/wedd.jpg" />
+                <p>Pentru a rezerva ziua și ora la care va avea loc fericitul eveniment, vă rugăm să accesați următorul link: </p>
+                <butoon class="btn">@Html.ActionLink("Casatorie", "AddPVStareCivila", "Programari")</butoon>
+                <br />
+                <br />
+
+                <h1>Inscriere in audienta</h1>
+                <img src="~/image/audienta.jpg" />
+                <p>Dupa confirmarea inscrierii, veti fi contactat de telefonic in solutionarii solicitarii.</p>
+                <button class="btn">@Html.ActionLink("Inregistrare audienta", "AddPVAudientaUser", "Programari")</button>
+            </div>
+        </div>
+
+        <div class="col-sm-3 ">
+            <div class="chenar">
+                @{
+                    var dir = Server.MapPath("~/Documents/");
+                    string[] fileEntries = Directory.GetFiles(dir);
+                    foreach (string fullFileName in fileEntries)
+                    {
+                        var file = fullFileName.Split('\\').Last();
+                        var fileUrl = "https://" + HttpContext.Current.Request.Url.Authority + "/Documents/" + @file;
+                        <a href=@fileUrl>@file</a>
+                    }
+                }
+                <p> Aici documente de descarcat</p>
+            </div>
+        </div>
+    </div>
+
+}
+
+<br />
+<br />
+<br />
+
+
+<style>
+
+    .row {
+        padding-top: 10px;
+    }
+
+    .chenar {
+        border: 2px solid #19334d;
+        padding: 5px 5px 5px 5px;
+        font-size: 20px;
+        color: white;
+    }
+
+        .chenar:hover {
+            background-color: rgba(240, 242, 245,0.2);
+            border-color: #19334d;
+        }
+
+
+    .col-sm-6.view {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        background-color: rgba(240, 242, 245,0.5);
+        padding: 5px 5px 5px 5px;
+        font-size: 20px;
+        color: black;
+        text-align: justify;
+    }
+
+    h1 {
+        text-align: center;
+    }
+
+    img {
+        width: 100%;
+    }
+</style>
+
+

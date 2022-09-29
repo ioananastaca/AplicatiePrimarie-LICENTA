@@ -1,0 +1,168 @@
+﻿
+@using Licenta.Models
+@{
+    ViewBag.Title = "Programări";
+}
+
+
+<div class="header">
+    <h2>Primăria comunei Bogdănești</h2>
+    <hr id="line">
+</div>
+
+@if (AppSession.Instance().LoggedUser == null)
+{
+    <div class="row">
+        <div class="col-sm-3 civil">
+            <div class="chenar">
+                <p id="red" style="font-size:22px;">Stare civilă</p>
+                @Html.Action("getPageLinks")
+            </div>
+        </div>
+        <div class="col-sm-6">
+            <h2>Pentru a putea face o programre trebuie sa fiți autentificat.</h2>
+            <div style="text-align:center">
+                <button class="btn">@Html.ActionLink("Autentificare", "Index", "Login")</button>
+            </div>
+        </div>
+        <div class="col-sm-3 ">
+            <div class="chenar2">
+                <div>
+                    @Html.Action("getDocuments")
+                </div>
+
+            </div>
+        </div>
+    </div>
+}
+else if (AppSession.Instance().LoggedUser.IsAdmin)
+{
+    <div>
+        <h1>Tabel programări casătorie</h1>
+        @Html.Action("ProgramareCasatorieTable")
+    </div>
+    <br />
+
+    <div>
+        <h1>Tabel audiențe înregistrate</h1>
+        @Html.Action("AudientaTable")
+    </div>
+
+
+}
+else
+{
+    <div class="row">
+        <div class="col-sm-3 civil">
+            <div class="chenar">
+                <p id="red" style="font-size:22px;"> Stare civila </p>
+                @Html.Action("getPageLinks")
+            </div>
+        </div>
+        <div class="col-sm-6">
+            <div id="user">
+                <h1>Bun venit!</h1>
+                <p>Administrația locală îți mulțmește că ai ales acestă cale ușoară de a-ți rezolva problemele.</p>
+                <p>Împreună contribuim la dezvoltarea comunității noastre.</p>
+                <br />
+
+                <h1>Programare căsătorie</h1>
+                <br />
+                <img src="~/image/wedd.jpg" />
+                <br />
+                <br />
+                <p>Pentru a rezerva ziua și ora la care va avea loc fericitul eveniment, vă rugăm să accesați următorul link: </p>
+                <br />
+                <div style="text-align:center">
+                    <button class="btn" style="width:300px;">@Html.ActionLink("Programare căsătorie", "AddPVStareCivila", "Programari") </button>
+                </div>
+
+                <br />
+                <br />
+                <hr id="line" />
+                <br />
+
+
+                <h1>Înscriere în audiență</h1>
+                <br />
+                <img src="~/image/audienta.jpg" />
+                <br />
+                <br />
+                <p>După confirmarea înscrierii, veți fi contactat telefonic în vederea soluționării solicitării.</p>
+                <br />
+                <div style="text-align:center">
+                    <button class="btn" style="width:300px;">@Html.ActionLink("Înregistrare audiență", "AddPVAudientaUser", "Programari")</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-sm-3 ">
+            <div class="chenar2">
+                <div>
+                    @Html.Action("getDocuments")
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+}
+<br />
+<br />
+<br />
+
+
+<style>
+
+
+
+
+
+    .col-sm-6.view {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        background-color: rgba(240, 242, 245,0.5);
+        padding: 5px 5px 5px 5px;
+        font-size: 20px;
+        color: black;
+        text-align: justify;
+    }
+
+    h1 {
+        text-align: center;
+    }
+
+    img {
+        width: 100%;
+    }
+</style>
+
+<link href="//cdn.datatables.net/1.10.25/css/jquery.dataTables.min.css">
+@section Scripts {
+    <script src="//cdn.datatables.net/1.10.25/js/jquery.dataTables.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#marriageTable').DataTable();
+        });
+
+        jQuery(document).ready(function () {
+            $('input[type="text"]').val('');
+            show_alert();
+        });
+
+        function show_alert() {
+            debugger;
+            jQuery('[show_alert]').click(function (e) {
+                if (!confirm(jQuery(this).attr("show_alert"))) {
+                    e.preventDefault();
+                } else {
+                    window.location.href = eval(jQuery(this).attr("nextUrlAction"));
+                }
+            });
+        }
+
+    </script>
+}
+
+
+
+

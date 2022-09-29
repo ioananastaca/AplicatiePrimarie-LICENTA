@@ -1,0 +1,74 @@
+﻿
+<script src="https://code.highcharts.com/highcharts.js"></script>
+<script src="https://code.highcharts.com/modules/exporting.js"></script>
+<script src="https://code.highcharts.com/modules/export-data.js"></script>
+<script src="https://code.highcharts.com/modules/accessibility.js"></script>
+<br />
+<button class="btn">@Html.ActionLink("Statistici", "BackToStatistics", "UserProfile")</button>
+<div class="row">
+
+    <figure class="highcharts-figure">
+        <div id="container">
+
+
+
+        </div>
+        <br />
+        <p class="highcharts-description">
+
+            Graficul arată distribuția numărului de programări pentru căsătorie pe zile.
+        </p>
+    </figure>
+</div>
+
+@section Scripts {
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $.getJSON("/UserProfile/GetData",
+                function (data) {
+                    var counts = [];
+                    var days = [];
+                    (JSON.parse(data)).forEach(elem => {
+                        counts.push(parseInt(elem.Item2));
+                        days.push(elem.Item1);
+                    });
+
+                    Highcharts.chart('container',
+                        {
+                            chart: {
+                                type: 'line'
+                            },
+                            title: {
+                                text: 'Numărul de programări pentru casătorie/zile'
+                            },
+                            //subtitle: {
+                            //    text: 'Source: WorldClimate.com'
+                            //},
+                            xAxis: {
+                                categories: days
+                            },
+                            yAxis: {
+                                title: {
+                                    text: 'nr de zile'
+                                }
+                            },
+                            plotOptions: {
+                                line: {
+                                    dataLabels: {
+                                        enabled: true
+                                    },
+                                    enableMouseTracking: false
+                                }
+                            },
+                            series: [
+                                {
+                                    name: 'Numărul de programări pentru căsătorie',
+                                    data: counts
+                                }
+                            ]
+                        });
+                })
+        })
+
+    </script>
+}

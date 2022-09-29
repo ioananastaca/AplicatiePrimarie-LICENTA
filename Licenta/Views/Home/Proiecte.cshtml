@@ -1,0 +1,44 @@
+﻿
+@{
+    ViewBag.Title = "Proiecte";
+}
+
+<h1 style="text-align:center">Componență primărie, buget, investiții, datorii</h1>
+<br />
+
+<div id="user">
+    <h2 style="text-align:center">Componentă primărie</h2>
+    <hr id="line" />
+    <p id="blue">Primar:<span style="color:black"> Sopon Cristian / 0756888888</span></p>
+    <p id="blue">Viceprimar:<span style="color:black"> Paval Daniel / 0799999999 </span></p>
+    <p id="blue">Secretar:<span style="color:black"> Let Gheorghe / 0799999999 </span></p>
+    <p id="blue">Avocat:<span style="color:black"> Apopei Ioana / 0799999999</span></p>
+    <p id="blue">Contabil: <span style="color:black">Rusu Madalina / 0799999999</span></p>
+</div>
+<br />
+<br />
+<div id="user">
+    <h2 style="text-align:center">Buget, investiții, datorii </h2>
+    <hr id="line" />
+    <div style="color:white">
+        @{
+            var dir = Server.MapPath("~/Documents/Buget");
+            string[] fileEntries = Directory.GetFiles(dir);
+            foreach (string fullFileName in fileEntries)
+            {
+
+
+                var file = fullFileName.Split('\\').Last();
+                var fileUrl = "https://" + HttpContext.Current.Request.Url.Authority + "/Documents/Buget/" + @file;
+                <ul>
+                    <li><a href=@fileUrl style="font-size:25px;color:blue">@file</a></li>
+                </ul>
+                <br />
+
+            }
+        }
+    </div>
+</div>
+
+
+

@@ -1,0 +1,41 @@
+﻿@using Licenta.Models
+@model Licenta.Models.Audienta
+<div id="user">
+    <h1 id="programariTitlu">Inscriere in audienta</h1>
+    <p id="black">După trimiterea cererii de inscriere in audienta, veti fi contactat in maxim 3 ore de un reprezentant in vederea solutionarii sau reprogramarii.</p>
+
+    <din style="color:royalblue">
+        <label class="field-validation-error"> @Html.DisplayFor(m => m.SuccesMesaj)</label>
+    </din>
+    @using (Html.BeginForm("SaveAudienta", "Programari"))
+    {
+        @Html.ValidationSummary(true, "Campurile de mai jos sunt obligatorii!")
+        <div class="form-group">
+            @Html.LabelFor(m => m.Nume, "Nume si prenume")
+            @Html.TextBoxFor(m => m.Nume, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.Nume)
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(m => m.Telefon, "Telefon")
+            @Html.TextBoxFor(m => m.Telefon, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.Telefon)
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(m => m.SolicitareLa, "Audienta solicitata la: ")
+            @Html.DropDownListFor(m => m.SolicitareLa, new SelectList(Solicitare.Solicitari), "Selectati aici", new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.SolicitareLa)
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(m => m.Motiv, "Motivul audientei: ")
+            @Html.TextBoxFor(m => m.Motiv, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.Motiv)
+        </div>
+
+        <div style="text-align:center">
+            <button class="btn" style="width:400px;">Trimite</button>
+        </div>
+    }
+</div>
+
+

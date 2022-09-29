@@ -1,0 +1,43 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+@model Licenta.Models.CreateAccount
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <div class="row" id="black" style="color:black">
+        @using (Html.BeginForm("Create", "CreateAccount"))
+        {
+            <div class="col-lg-6">
+
+                <h1>Creează cont</h1>
+                @Html.ValidationSummary(true, "Pentru a putea salva contul trebuie sa completezi câmpurile de mai jos")
+                <div class="form-group">
+                    @Html.LabelFor(m => m.EmailAddress)
+                    @Html.TextBoxFor(m => m.EmailAddress, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(m => m.EmailAddress)
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(m => m.Password)
+                    @Html.PasswordFor(m => m.Password, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(m => m.Password)
+                </div>
+
+                <button type="submit" class="btn">Creează cont</button>
+            </div>
+
+            <div class="col-lg-6" style="text-align:center;font-size:300px;">
+                <i class="fa fa-user-circle" aria-hidden="true"> </i>
+            </div>
+
+        }
+
+        @if (Model.AccountCreated)
+        {
+            <p id="red">Cont creat cu succes!</p>
+            <p id="red">Te rugam sa ții minte datele pe care le-ai folosi pentru autentificare!</p>
+        }
+ 
+</div>

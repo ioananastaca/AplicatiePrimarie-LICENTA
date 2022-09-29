@@ -1,0 +1,209 @@
+﻿
+
+@model Licenta.Models.UserActivity
+<h1 style="text-align:center">Activitățile mele</h1>
+<br />
+<h2>Solicitări în audiență</h2>
+<table id="reportTable" class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>Id audienta</th>
+            <th>Nume si prenume</th>
+            <th>Telefon</th>
+            <th>Audienta solicitata la</th>
+            <th>Motivul</th>
+            <th>Mentiuni</th>
+        </tr>
+    </thead>
+    <tbody>
+        @for (int i = 0; i < Model.Audiences.Count; i++)
+        {
+            if (!Model.Audiences[i].isCanceled)
+            {
+        <tr>
+            <td @*hidden="true"*@>
+                @Html.DisplayFor(x => x.Audiences[i].IdAudienta)
+                @Html.HiddenFor(x => x.Audiences[i].IdAudienta)
+            </td>
+            <td>
+                @Html.DisplayFor(x => x.Audiences[i].Nume)
+                @Html.HiddenFor(x => x.Audiences[i].Nume)
+            </td>
+            <td>
+                @Html.DisplayFor(x => x.Audiences[i].Telefon)
+                @Html.HiddenFor(x => x.Audiences[i].Telefon)
+            </td>
+            <td>
+                @Html.DisplayFor(x => x.Audiences[i].SolicitareLa)
+                @Html.HiddenFor(x => x.Audiences[i].SolicitareLa)
+            </td>
+            <td>
+                @Html.DisplayFor(x => x.Audiences[i].Motiv)
+                @Html.HiddenFor(x => x.Audiences[i].Motiv)
+            </td>
+            <td>
+                @Html.DisplayFor(x => x.Audiences[i].Mentiuni, new { @style = "color:royalblue" })
+                @Html.HiddenFor(x => x.Audiences[i].Mentiuni)
+            </td>
+            <td>
+
+                <input type="submit" class="show_alert" value="Anuleaza" show_alert="Esti sigur?" nextUrlAction="'@Url.Action("CancelAudience", "UserProfile",
+                                                                               new {audienceId=@Model.Audiences[i].IdAudienta })'" />
+
+            </td>
+
+        </tr>
+            }
+
+        }
+    </tbody>
+</table>
+<br />
+<h2>Sesizări depuse</h2>
+<table id="reportTable" class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <td>Id sesizare</td>
+            <th>Titlu</th>
+            <th>Adresa</th>
+            <th>Descriere</th>
+            <th>Urgenta</th>
+            <th>Rezolvata</th>
+        </tr>
+    </thead>
+    <tbody>
+        @for (int i = 0; i < Model.Reports.Count; i++)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(x => x.Reports[i].Id)
+                    @Html.HiddenFor(x => x.Reports[i].Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(x => x.Reports[i].TitlulSesizarii)
+                    @Html.HiddenFor(x => x.Reports[i].TitlulSesizarii)
+                </td>
+                <td>
+                    @Html.DisplayFor(x => x.Reports[i].Adresa)
+                    @Html.HiddenFor(x => x.Reports[i].Adresa)
+                </td>
+                <td>
+                    @Html.DisplayFor(x => x.Reports[i].Descriere)
+                    @Html.HiddenFor(x => x.Reports[i].Descriere)
+                </td>
+                <td>
+                    @Html.DisplayFor(x => x.Reports[i].EsteUrgenta)
+                    @Html.HiddenFor(x => x.Reports[i].EsteUrgenta)
+                </td>
+
+                <td>
+                    @Html.CheckBoxFor(x => x.Reports[i].IsResolved, new { @disabled = "disabled" })
+                    @Html.HiddenFor(x => x.Reports[i].IsResolved)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<br />
+<h2>Programări pentru căsătorie depuse</h2>
+<table id="reportTable" class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <td>Id casatorie</td>
+            <th>Data</th>
+            <th>Ora</th>
+            <th>Sot</th>
+            <th>CNP sot</th>
+            <th>Sotie</th>
+            <th>CNP sotie</th>
+            <th>Email</th>
+            <th>Telefon</th>
+        </tr>
+    </thead>
+    <tbody>
+        @for (int i = 0; i < Model.Marriages.Count; i++)
+        {
+            if (!Model.Marriages[i].IsCanceled)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(x => x.Marriages[i].Id)
+                        @Html.HiddenFor(x => x.Marriages[i].Id)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(x => x.Marriages[i].Date)
+                        @Html.HiddenFor(x => x.Marriages[i].Date)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(x => x.Marriages[i].Hour)
+                        @Html.HiddenFor(x => x.Marriages[i].Hour)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(x => x.Marriages[i].HusbandName)
+                        @Html.HiddenFor(x => x.Marriages[i].HusbandName)
+                    </td>
+
+                    <td>
+                        @Html.DisplayFor(x => x.Marriages[i].HusbandCNP)
+                        @Html.HiddenFor(x => x.Marriages[i].HusbandCNP)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(x => x.Marriages[i].WifeName)
+                        @Html.HiddenFor(x => x.Marriages[i].WifeName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(x => x.Marriages[i].WifeCNP)
+                        @Html.HiddenFor(x => x.Marriages[i].WifeCNP)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(x => x.Marriages[i].EmailAdress)
+                        @Html.HiddenFor(x => x.Marriages[i].EmailAdress)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(x => x.Marriages[i].PhoneNumber)
+                        @Html.HiddenFor(x => x.Marriages[i].PhoneNumber)
+                    </td>
+                    <td>
+
+                        <input type="submit" value="Anuleaza" class="show_alert" show_alert="Esti sigur?" nextUrlAction="'@Url.Action("CancelMarriage", "UserProfile",
+                                                                                        new {marriageId=@Model.Marriages[i].Id})'" />
+
+                    </td>
+                </tr>
+            }
+
+        }
+    </tbody>
+</table>
+
+
+<style>
+    .body-content {
+        font-size: 20px;
+        color: black;
+    }
+</style>
+
+
+@section Scripts {
+   
+    <script type="text/javascript">
+        jQuery(document).ready(function () {
+            show_alert();
+        });
+
+        function show_alert() {
+            debugger;
+            jQuery('[show_alert]').click(function (e) {
+                if (!confirm(jQuery(this).attr("show_alert"))) {
+                    e.preventDefault();
+                } else {
+                    window.location.href = eval(jQuery(this).attr("nextUrlAction"));
+                }
+            });
+        }
+       
+    </script>
+
+}

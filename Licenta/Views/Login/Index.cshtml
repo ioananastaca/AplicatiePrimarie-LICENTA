@@ -1,0 +1,83 @@
+﻿
+
+@model Licenta.Models.Login
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<p id="title">Autentificare</p>
+
+
+<p id="subtitle">Vă rugăm autentificați-vă
+    </p>
+
+<div class="row">
+    <div class="col-lg-6 login">
+        @using (Html.BeginForm("Login", "Login"))
+        {
+            @Html.ValidationSummary(true, "Pentru autentificare este nevoie sa completezi campurile de mai jos!")
+            <div class="form-group">
+                @Html.LabelFor(m => m.EmailAddress)
+                @Html.TextBoxFor(m => m.EmailAddress, new { @class = "form-control" })
+                @Html.ValidationMessageFor(m => m.EmailAddress)
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(m => m.Password)
+                @Html.PasswordFor(m => m.Password, new { @class = "form-control" })
+                @Html.ValidationMessageFor(m => m.Password)
+            </div>
+            <din>
+                <label class="field-validation-error"> @Html.DisplayFor(m => m.LoginErrorMessage)</label>
+            </din>
+            <div style="text-align:center">
+                <button class="btn"><i class="fa fa-sign-in" aria-hidden="true"></i> Intra in cont</button>
+            </div>
+        }
+    </div>
+
+
+    <div class="col-lg-6">
+        <p id="newAccount">Daca nu ai un cont, te invităm să îți creezi unul.</p>
+        <p id="newAccount">Te sfătuim să notezi datele pe care le folosești la crearea contului pentru a reduce riscurile de a nu-l mai putea folosi.</p>
+        <br />
+        <br />
+        <br />
+        <div style="text-align:center">
+            <button class="btn"><i class="fa fa-plus-circle" aria-hidden="true"></i> @Html.ActionLink("Creare Cont", "Index", "CreateAccount")</button>
+       </div>
+     </div>
+    </div>
+
+<style>
+    .row {
+        margin-bottom: 30px;
+    }
+
+    .col-lg-6.login {
+        font-size: 20px;
+        border-right: 3px solid white;
+        color: #bbbdbf;
+    }
+
+    #title {
+        padding-top: 10px;
+        text-align: center;
+        color: black;
+        border-bottom: 2px solid white;
+        padding-bottom: 10px;
+        font-size: 30px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+
+    #subtitle {
+      
+        font-size: 25px;
+        color: palevioletred;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+
+    #newAccount {
+        font-size: 20px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: black;
+        margin-left:10px;
+    }
+</style>

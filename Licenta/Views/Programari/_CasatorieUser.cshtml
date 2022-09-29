@@ -1,0 +1,132 @@
+﻿@using Licenta.Models
+@model Licenta.Models.ProgramareCasatorie
+<div id="user">
+    <h1 id="programariTitlu">Stare Civila</h1>
+    @using (Html.BeginForm("SaveMarriage", "Programari"))
+    {
+        <din style="text-align:center;color:royalblue">
+            <label class="field-validation-error"> @Html.DisplayFor(m => m.SuccessMessage)</label>
+        </din>
+        @Html.ValidationSummary(true, "Campurile de mai jos sunt obligatorii!")
+        <div class="form-group">
+            @Html.LabelFor(m => m.Date, "Data")
+            @Html.TextBoxFor(model => model.Date, "{0:dd/MM/yyyy}", new { @class = "form-control", placeholder = "Enter Drop-off date here...", @readonly = "readonly", @style = "background-color: #FFFFFF" })
+            @Html.ValidationMessageFor(m => m.Date)
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(m => m.Hour, "Ora")
+            @Html.DropDownListFor(m => m.Hour,
+                new SelectList(Tools.Hours),
+                "SelectatiOra",
+                new { @class = "form-control" }
+                )
+            @Html.ValidationMessageFor(m => m.Hour)
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(m => m.HusbandName, "Nume sot")
+            @Html.TextBoxFor(m => m.HusbandName, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.HusbandName)
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(m => m.HusbandCNP, "CNP sot")
+            @Html.TextBoxFor(m => m.HusbandCNP, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.HusbandCNP)
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(m => m.WifeName, "Nume sotie")
+            @Html.TextBoxFor(m => m.WifeName, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.WifeName)
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(m => m.WifeCNP, "CNP sotie")
+            @Html.TextBoxFor(m => m.WifeCNP, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.WifeCNP)
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(m => m.EmailAdress, "Adresa email")
+            @Html.TextBoxFor(m => m.EmailAdress, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.EmailAdress)
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(m => m.PhoneNumber, "Telefon")
+            @Html.TextBoxFor(m => m.PhoneNumber, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.PhoneNumber)
+        </div>
+        <div style="text-align:center">
+            <button class="btn" style="width:400px;">Trimite</button>
+        </div>
+
+
+    }
+    <br />
+    <p id="blue">Atentie: Nu se pot rezerva două locaţii sau intervale orare pentru acelaşi cuplu. Daca doriti sa modificati locatia, sau data, va rugam sa anulati rezervarea efectuata.</p>
+    <p id="black">Programarea on-line se poate utiliza numai in cazul casatoriilor incheiate intre cetateni romani. Pentru casatoria cu un cetatean strain, sau intre cetateni straini, va rugam sa va adresati ofiterului de stare civila de la ghiseu.</p>
+    <p id="black">Casatoria se poate incheia dupa 11 zile de la data depunerii declaratiei de casatorie. (se socoteste atat ziua depunerii dosarului cat si ziua oficierii casatoriei).</p>
+    <p id="blue">La depunerea declaratiei de casatorie este obligatorie prezenta ambilor soti, impreuna.</p>
+    <p id="black">
+        Pentru cazuri bine justificate, casatoria se poate incheia mai repede de 11 zile, ori dupa expirarea termenului legal, dar numai pana la expirarea termenului de valabilitate a certificatelor medicale ( de 14 zile de la data emiterii lor), cu aprobarea primarului.
+        Casatoria civila se incheie in intervalul orar stabilit in acest scop, de catre Serviciul Stare Civila.
+    </p>
+    <p id="black">Prin continuarea procedurii de rezervare sunteti de acord cu prelucrarea datelor personale, in conformitate cu prevederile Legii nr.677/2001 pentru protectia persoanelor cu privire la prelucrarea datelor cu caracter personal si libera circulatie a acestor date.</pid="black">
+    <p id="black">Declaratia de casatorie se face personal, de catre viitorii soti, in scris, la primaria locului de domiciliu sau de resedinta al unuia dintre soti.</p>
+    <p id="black"> In cazul in care casatoria va fi cu un cetatean strain, va obligati sa solicitati, in timp util, informatii suplimentare despre actele necesare, dat fiind specificul fiecarei tari.</p>
+    <p id="blue">Aveti obligatia de a inscrie corect si complet numele si prenumele sotilor, in caz contrar casatoria poate fi declarata nula prin neindeplinirea procedurii de publicitate (art. 283 din Cod Civil).</p>
+    <p id="black">Declaratia de casatorie se face personal, de catre viitorii soti, in scris, la primaria in a carei raza de competenta teritoriala isi are domiciliul sau resedinta unul dintre viitorii soti.</p>
+    <p id="black">Lipsa documentelor necesare si nerespectarea termenelor prevazute de lege, constituie atat conditie de fond, cat si impediment la incheierea casatoriei, care poate atrage dupa sine nulitatea casatoriei.</p>
+    <br />
+    <br />
+
+</div>
+
+@section Scripts {
+    <script type="text/javascript">
+        $(document).ready(function() {
+            disableOrEnableHour();
+
+            $("#Date").datepicker({
+                dateFormat: "dd/MM/yy",
+                changeMonth: true,
+                changeYear: true,
+                firstDay: 1,
+                //beforeShowDay: $.datepicker.noWeekends,
+                dateFormat: 'dd/mm/yy',
+                language: "ro",
+                dayNamesMin: ["Dum", "Lun", "Mar", "Mie", "Joi", "Vin", "Sam"],
+                monthNamesShort: ["Ian", "Feb", "Mar", "Apr", "Mai", "Iun", "Iul", "Aug", "Sep", "Oct", "Nov", "Dec"]
+            });
+
+            $("#Date").change(function() {
+                disableOrEnableHour();
+
+                debugger;
+                var actualDate = $("#Date").val();
+                var bookedMarriages = @Html.Raw(Json.Encode(Model.BookedMarriages));
+                $.each(bookedMarriages,
+                    function(index, item) {
+                        if (item.Key == actualDate) {
+                            $('[name=Hour]').find('option:contains(' + item.Value.trim() + ')').prop('disabled', true);
+                        }
+                    });
+            });
+        });
+
+        function disableOrEnableHour() {
+            debugger;
+            if (!$("#Date").val()) {
+                $('#Hour option:eq(0)').attr('selected', 'selected');
+                $("#Hour").prop("disabled", true);
+            } else {
+                $("#Hour").prop("disabled", false);
+                $('[name=Hour]').find('option').prop('disabled', false);
+            }
+        }
+    </script>
+    <style>
+        option:disabled {
+            color: red;
+            font-style:italic;
+            font-size:15px;
+            border:1px solid black;
+        }
+    </style>
+}
